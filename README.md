@@ -21,6 +21,4 @@ Built with **Flutter**, it features **voice interaction**, providing users with 
 
 ---
 
-## 🚀 Installation
-1. Clone the repository  
-   ```bash
+
